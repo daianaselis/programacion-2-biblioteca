@@ -1,0 +1,383 @@
+{
+  "libros": [
+    {
+      "id": "1",
+      "titulo": "Cien Años de Soledad",
+      "autor": "Gabriel Garcia Marquez",
+      "editorial": "Editorial Sudamericana",
+      "año_publicacion": 1967,
+      "genero": "Realismo mágico",
+      "urlPortada": "https://www.clarin.com/img/2024/03/13/aRQnydo_9_2000x1500__1.jpg"
+    },
+    {
+      "id": "2",
+      "titulo": "Don Quijote de la Mancha",
+      "autor": "Miguel de Cervantes",
+      "editorial": "Francisco de Robles",
+      "año_publicacion": 1605,
+      "genero": "Novela",
+      "urlPortada": "https://www.loqueleo.com/mx/uploads/2018/07/resized/800_portada-quijote-web.jpg"
+    },
+    {
+      "id": "3",
+      "titulo": "La casa de los espíritus",
+      "autor": "Isabel Allende",
+      "editorial": "Plaza & Janés",
+      "año_publicacion": 1982,
+      "genero": "Realismo mágico",
+      "urlPortada": "https://images.cdn1.buscalibre.com/fit-in/360x360/02/27/0227bc5fec74459c38f5d8b1cb0fd533.jpg"
+    },
+    {
+      "id": "4",
+      "titulo": "1984",
+      "autor": "George Orwell",
+      "editorial": "Secker & Warburg",
+      "año_publicacion": 1949,
+      "genero": "Distopía",
+      "urlPortada": "https://images.cdn2.buscalibre.com/fit-in/360x360/85/64/8564963be6e21ee55d0bd7b532c3a9bb.jpg"
+    },
+    {
+      "id": "5",
+      "titulo": "El amor en los tiempos del cólera",
+      "autor": "Gabriel Garcia Marquez",
+      "editorial": "Editorial Oveja Negra",
+      "año_publicacion": 1985,
+      "genero": "Novela",
+      "urlPortada": "https://images.cdn1.buscalibre.com/fit-in/360x360/b0/3e/b03e98118b9e2cf5b94bb0548bfa59c5.jpg"
+    },
+    {
+      "id": "6",
+      "titulo": "Crimen y castigo",
+      "autor": "Fiódor Dostoyevski",
+      "editorial": "The Russian Messenger",
+      "año_publicacion": 1866,
+      "genero": "Ficción psicológica",
+      "urlPortada": "https://cdn.prod.website-files.com/6034d7d1f3e0f52c50b2adee/6254541d8ae4df16d4e69bc8_6034d7d1f3e0f54529b2b1a1_Crimen-y-castigo-fiodor-dostoyevski-editorial-alma.jpeg"
+    },
+    {
+      "id": "7",
+      "titulo": "Rayuela",
+      "autor": "Julio Cortázar",
+      "editorial": "Editorial Sudamericana",
+      "año_publicacion": 1963,
+      "genero": "Novela",
+      "urlPortada": "https://images.cdn2.buscalibre.com/fit-in/360x360/79/23/7923855a9ba7b7984ee484072e4ca12d.jpg"
+    },
+    {
+      "id": "8",
+      "titulo": "El principito",
+      "autor": "Antoine de Saint-Exupéry",
+      "editorial": "Reynal & Hitchcock",
+      "año_publicacion": 1943,
+      "genero": "Ficción",
+      "urlPortada": "https://images.cdn3.buscalibre.com/fit-in/360x360/f9/32/f9327da5dccd30bb93c1862a354c9b8e.jpg"
+    },
+    {
+      "id": "9",
+      "titulo": "Orgullo y prejuicio",
+      "autor": "Jane Austen",
+      "editorial": "T. Egerton",
+      "año_publicacion": 1813,
+      "genero": "Romance",
+      "urlPortada": "https://images.cdn3.buscalibre.com/fit-in/360x360/46/6b/466b0b47e932561b186c56358acbe55e.jpg"
+    },
+    {
+      "id": "10",
+      "titulo": "Matar a un ruiseñor",
+      "autor": "Harper Lee",
+      "editorial": "J.B. Lippincott & Co.",
+      "año_publicacion": 1960,
+      "genero": "Novela",
+      "urlPortada": "https://images.cdn3.buscalibre.com/fit-in/360x360/1b/d7/1bd7b432c94ccdcf816c917d8abe8e83.jpg"
+    },
+    {
+      "id": "11",
+      "titulo": "Ulises",
+      "autor": "James Joyce",
+      "editorial": "Sylvia Beach",
+      "año_publicacion": 1922,
+      "genero": "Novela moderna",
+      "urlPortada": "https://images.cdn2.buscalibre.com/fit-in/360x360/db/1e/db1e0847e464bf52391cbb8cc24857ea.jpg"
+    },
+    {
+      "id": "12",
+      "titulo": "En busca del tiempo perdido",
+      "autor": "Marcel Proust",
+      "editorial": "Grasset y Gallimard",
+      "año_publicacion": 1913,
+      "genero": "Novela",
+      "urlPortada": "https://images.cdn2.buscalibre.com/fit-in/360x360/04/0b/040bfd4a2227338020431d81c7d3c121.jpg"
+    },
+    {
+      "id": "13",
+      "titulo": "El Gran Gatsby",
+      "autor": "F. Scott Fitzgerald",
+      "editorial": "Charles Scribner's Sons",
+      "año_publicacion": 1925,
+      "genero": "Novela",
+      "urlPortada": "https://images.cdn3.buscalibre.com/fit-in/360x360/a5/a0/a5a0b9ef2f157e1344ca0a136a200de7.jpg"
+    },
+    {
+      "id": "14",
+      "titulo": "La Odisea",
+      "autor": "Homero",
+      "editorial": "Antiguo manuscrito",
+      "año_publicacion": -800,
+      "genero": "Épica",
+      "urlPortada": "https://images.cdn2.buscalibre.com/fit-in/360x360/78/b9/78b9dc15656b82cd995f317b79d23df6.jpg"
+    },
+    {
+      "id": "15",
+      "titulo": "Las mil y una noches",
+      "autor": "Desconocido",
+      "editorial": "Antiguo manuscrito",
+      "año_publicacion": 800,
+      "genero": "Cuentos",
+      "urlPortada": "https://images.cdn3.buscalibre.com/fit-in/360x360/36/69/3669a82ffd7221a3727a2965cccabab7.jpg"
+    },
+    {
+      "id": "16",
+      "titulo": "El señor de los anillos",
+      "autor": "J.R.R. Tolkien",
+      "editorial": "Allen & Unwin",
+      "año_publicacion": 1954,
+      "genero": "Fantasía",
+      "urlPortada": "https://images.cdn1.buscalibre.com/fit-in/360x360/66/1a/661a3760157941a94cb8db3f5a9d5060.jpg"
+    },
+    {
+      "id": "17",
+      "titulo": "A sangre fría",
+      "autor": "Truman Capote",
+      "editorial": "Random House",
+      "año_publicacion": 1966,
+      "genero": "Crimen",
+      "urlPortada": "https://images.cdn2.buscalibre.com/fit-in/360x360/eb/fc/ebfcf2259ec114b3e88c8fb53f3ec615.jpg"
+    },
+    {
+      "id": "18",
+      "titulo": "El código Da Vinci",
+      "autor": "Dan Brown",
+      "editorial": "Doubleday",
+      "año_publicacion": 2003,
+      "genero": "Thriller",
+      "urlPortada": "https://images.cdn3.buscalibre.com/fit-in/360x360/40/c2/40c288952a400135e562dbc778fd52e9.jpg"
+    },
+    {
+      "id": "19",
+      "titulo": "La sombra del viento",
+      "autor": "Carlos Ruiz Zafón",
+      "editorial": "Planeta",
+      "año_publicacion": 2001,
+      "genero": "Novela",
+      "urlPortada": "https://images.cdn2.buscalibre.com/fit-in/360x360/c0/0d/c00dd3a9668387339be2de5e97bb589c.jpg"
+    },
+    {
+      "id": "20",
+      "titulo": "Harry Potter y la piedra filosofal",
+      "autor": "J.K. Rowling",
+      "editorial": "Bloomsbury",
+      "año_publicacion": 1997,
+      "genero": "Fantasía",
+      "urlPortada": "https://images.cdn2.buscalibre.com/fit-in/360x360/e3/bc/e3bcd85377567759874a0664f894a67b.jpg"
+    },
+    {
+      "id": "21",
+      "titulo": "La felicidad. Más allá de la ilusión",
+      "autor": "Gabriel Rolon",
+      "editorial": "Planeta",
+      "año_publicacion": 2024,
+      "genero": "autoayuda y psicología",
+      "urlPortada": "https://images.cdn3.buscalibre.com/fit-in/360x360/13/86/1386fdaa1e5f40969f7f5a87e385c6c4.jpg"
+    },
+    {
+      "id": "22",
+      "titulo": "Drácula",
+      "autor": "Bram Stoker",
+      "editorial": "Archibald Constable and Company",
+      "año_publicacion": 1897,
+      "genero": "terror y ficción",
+      "urlPortada": "https://images.cdn2.buscalibre.com/fit-in/360x360/f5/41/f541a2ecba29c46c4f957f4ba1ef475b.jpg"
+    },
+    {
+      "id": "23",
+      "titulo": "El retrato de Dorian Gray",
+      "autor": "Oscar Wilde",
+      "editorial": "Lippincott's Monthly Magazine",
+      "año_publicacion": 1890,
+      "genero": "ficción y filosofía",
+      "urlPortada": "https://images.cdn1.buscalibre.com/fit-in/360x360/d8/53/d853616d4256d2146af2a543f224af84.jpg"
+    },
+    {
+      "id": "24",
+      "titulo": "Cumbres borrascosas",
+      "autor": "Emily Brontë",
+      "editorial": "Thomas Cautley Newby",
+      "año_publicacion": 1847,
+      "genero": "romance y clásico",
+      "urlPortada": "https://image.cdn1.buscalibre.com/5b57130d17e473d0058b456a.__RS360x360__.jpg"
+    },
+    {
+      "id": "25",
+      "titulo": "La metamorfosis",
+      "autor": "Franz Kafka",
+      "editorial": "Kurt Wolff",
+      "año_publicacion": 1915,
+      "genero": "ficción y filosofía",
+      "urlPortada": "https://images.cdn1.buscalibre.com/fit-in/360x360/24/5e/245e73bddcf44ceb8a310953d152e045.jpg"
+    },
+    {
+      "id": "26",
+      "titulo": "Siddhartha",
+      "autor": "Hermann Hesse",
+      "editorial": "Demian",
+      "año_publicacion": 1922,
+      "genero": "filosofía y ficción",
+      "urlPortada": "https://images.cdn3.buscalibre.com/fit-in/360x360/db/6f/db6f63e32e8c19df703cf66cbfafecf1.jpg"
+    },
+    {
+      "id": "27",
+      "titulo": "Los pilares de la Tierra",
+      "autor": "Ken Follett",
+      "editorial": "Penguin Books",
+      "año_publicacion": 1989,
+      "genero": "histórico",
+      "urlPortada": "https://images.cdn2.buscalibre.com/fit-in/360x360/77/c4/77c49fa72ff4ce2e0ee6239e77d1c25b.jpg"
+    }
+  ],
+  "clientes": [
+    {
+      "nombres": "Dolores Lopez",
+      "dni_cliente": "17456892",
+      "direccion": "Catamarca 590",
+      "telefono": "+5438123232323",
+      "id": "a60a"
+    },
+    {
+      "id": "87dc",
+      "nombres": "Luis Miguel",
+      "dni_cliente": "34324234",
+      "direccion": "calle verdadera 234",
+      "telefono": "34435455"
+    },
+    {
+      "id": "be6c",
+      "nombres": "Diego Armando Maradona",
+      "dni_cliente": "65456456",
+      "direccion": "calle dibu martinez 400",
+      "telefono": "365456456"
+    },
+    {
+      "id": "bc57",
+      "nombres": "Zahira Jazmin Daruis",
+      "dni_cliente": "3234342",
+      "direccion": "Haiti 6",
+      "telefono": "38382324"
+    },
+    {
+      "id": "7b33",
+      "nombres": "Daiana",
+      "dni_cliente": "40434429",
+      "direccion": "Catamarca 211",
+      "telefono": "12345676"
+    },
+    {
+      "id": "dc93",
+      "nombres": "Martin Rodrigo Matias",
+      "dni_cliente": "403234545",
+      "direccion": "av siempre viva 742",
+      "telefono": "+54-3232343423"
+    }
+  ],
+  "prestamos": [
+    {
+      "id_libro": "3",
+      "id_cliente": "3",
+      "fecha_prestamo": "2024-07-15",
+      "fecha_devolucion": "2024-08-04T20:20:40.683Z",
+      "id": "3"
+    },
+    {
+      "id_libro": "8",
+      "id_cliente": "7b33",
+      "fecha_prestamo": "2024-07-16",
+      "fecha_devolucion": "2024-07-30",
+      "id": "4"
+    },
+    {
+      "id_libro": "3",
+      "id_cliente": "87dc",
+      "fecha_prestamo": "2024-07-17",
+      "fecha_devolucion": "2024-07-31",
+      "id": "5"
+    },
+    {
+      "id": "6",
+      "id_cliente": "6",
+      "id_libro": "6",
+      "fecha_prestamo": "2024-07-18",
+      "fecha_devolucion": "2024-08-01"
+    },
+    {
+      "id": "7",
+      "id_cliente": "7",
+      "id_libro": "7",
+      "fecha_prestamo": "2024-07-19",
+      "fecha_devolucion": "2024-08-02"
+    },
+    {
+      "id": "8",
+      "id_cliente": "8",
+      "id_libro": "8",
+      "fecha_prestamo": "2024-07-20",
+      "fecha_devolucion": "2024-08-03"
+    },
+    {
+      "id_libro": "10",
+      "id_cliente": "2",
+      "fecha_prestamo": "2024-07-04T19:01:29.419Z",
+      "fecha_devolucion": "2024-08-04T20:20:47.999Z",
+      "id": "10"
+    },
+    {
+      "id_libro": "1",
+      "id_cliente": "1",
+      "fecha_prestamo": "2024-08-05T02:40:23.206Z",
+      "fecha_devolucion": "2024-08-05T02:40:28.105Z",
+      "id": "0391"
+    },
+    {
+      "id_libro": "16",
+      "id_cliente": "fb1e",
+      "fecha_prestamo": "2024-07-05T02:40:45.921Z",
+      "fecha_devolucion": "2024-08-05T19:33:25.147Z",
+      "id": "60be"
+    },
+    {
+      "id_libro": "1",
+      "id_cliente": "1",
+      "fecha_prestamo": "2024-08-05T02:44:08.133Z",
+      "fecha_devolucion": "2024-08-05T17:50:05.108Z",
+      "id": "e6bf"
+    },
+    {
+      "id_libro": "10",
+      "id_cliente": "dc93",
+      "fecha_prestamo": "2024-08-06T02:59:16.988Z",
+      "fecha_devolucion": "2024-08-06T22:28:07.084Z",
+      "id": "13c1"
+    },
+    {
+      "id": "e9f1",
+      "id_cliente": "87dc",
+      "id_libro": "5",
+      "fecha_prestamo": "2024-08-06T23:07:57.230Z",
+      "fecha_devolucion": null
+    }
+  ],
+  "usuarios": [
+    {
+      "id": "daianabetsabeselis@gmail.com",
+      "password": "Momo123"
+    }
+  ]
+}

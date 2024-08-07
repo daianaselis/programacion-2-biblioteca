@@ -1,0 +1,25 @@
+.card{
+    width: 100%;
+}
+#Buscador {
+    background: url(https://cdn0.iconfinder.com/data/icons/slim-square-icons-basics/100/basics-19-32.png) no-repeat 0px 5px;
+    background-size: 24px;
+    width: 500px;
+    border: transparent;
+    border-bottom: solid 1px #ccc;
+    padding: 10px 10px 10px 30px;
+    outline: none;
+  }
+ #Buscador{
+   background-color: white;
+   margin: 25px;
+   width: 100%;
+   align-items: center;
+ }
+body{
+  background-image: url('../imagenes/backgroundprestamos.avif');
+    background-size: contain;
+  }
+  h1{
+    background-color: blanchedalmond;
+  }
